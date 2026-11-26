@@ -22,3 +22,11 @@ Cada artículo incluye todo el contenido de la materia, con imágenes de apoyo.
 ## Estructura
 
 Cada carpeta contiene el artículo en Markdown (`articulo.md`) y la carpeta `images/` reúne las imágenes de apoyo de toda la serie.
+
+
+## Contribuidores
+
+- [@frankjunker87-arch](https://github.com/frankjunker87-arch) — autor de la serie
+- [@psehgaft](https://github.com/psehgaft) — colaborador
+- [@san985tos](https://github.com/san985tos) — colaborador
+- [@tec-girl](https://github.com/tec-girl) — colaboradora
